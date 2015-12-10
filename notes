@@ -1,0 +1,5 @@
+cd D:\PyProjects\0325
+
+$ ipython
+In [1]: import SQLtoExcel #reload(SQLtoExcel)
+In [1]: SQLtoExcel.AFLbyFac()
